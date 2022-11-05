@@ -412,20 +412,24 @@ ol {
 
 .hero-section .hero-text .img-logo {
   margin-bottom: 20px;
+  text-align:left;
 }
 
 .hero-section .hero-text #ieee {
-  text-align: left;
-  width: 180px;
-  height: 60px;
-  margin-right: 10px;
+  width: 181px;
+  height: 50px;
+  margin-right: 12px;
 }
 
-.hero-section .hero-text img {
-  text-align: left;
-  width: 180px;
+.hero-section .hero-text #ics {
+  width: 185px;
+  height: 86px;
+  margin-right: 12px;
+}
+
+.hero-section .hero-text #iath {
+  width: 176px;
   height: 100px;
-  margin-left: 12px;
 }
 
 .hero-section .hero-text span {
