@@ -43,9 +43,9 @@
                 <div class="col-lg-7">
                     <div class="hero-text">
                         <div class="img-logo">
-                        <img id="ieee" src="img/logo/image.png" alt="">
-                        <img id="ics" src="img/logo/IEEE-COMPUTER-SOCIETY-KERALA-CHAPTER.png" alt="">
-                        <img id="iath" src="img/logo/IEEE-logo.png" alt=""></br>
+                        <img id="logo1" src="img/logo/image.png" alt="">
+                        <img id="logo2" src="img/logo/IEEE-COMPUTER-SOCIETY-KERALA-CHAPTER.png" alt="">
+                        <img id="logo3" src="img/logo/IEEE-logo.png" alt=""></br>
                         </div>
                         <span><b>INTERNATIONAL CONFERENCE ON</b></span>
                         <h2>ADVANCES IN INTELLIGENT COMPUTING AND APPLICATIONS</br>ICA 2023</h2>
