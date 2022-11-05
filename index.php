@@ -42,6 +42,11 @@
             <div class="row">
                 <div class="col-lg-7">
                     <div class="hero-text">
+                        <div class="img-logo">
+                        <img id="ieee" src="img/logo/image.png" alt="">
+                        <img src="img/logo/IEEE-COMPUTER-SOCIETY-KERALA-CHAPTER.png" alt="">
+                        <img src="img/logo/IEEE-logo.png" alt=""></br>
+                        </div>
                         <span><b>INTERNATIONAL CONFERENCE ON</b></span>
                         <h2>ADVANCES IN INTELLIGENT COMPUTING AND APPLICATIONS</br>ICA 2023</h2>
                         <span>Technically Co-Sponsored by</br> <b>IEEE Kerala Section</b></span></br></br>
@@ -63,7 +68,7 @@
                 <div class="col-lg-4">
                     <div class="counter-text">
                         <span>2023 FEBRUARY 1</span>
-                        <h3>Counter until <br />AICAPS 2023</h3>
+                        <h3>Counter until AICAPS 2023</h3>
                     </div>
                 </div>
                 <div class="col-lg-8">

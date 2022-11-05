@@ -402,11 +402,30 @@ ol {
 -----------------------*/
 
 .hero-section {
-  padding-top: 55px;
+  padding-top: 40px;
 }
 
 .hero-section .hero-text {
-  padding-top: 100px;
+  padding-top: 0px;
+  margin-bottom: 20px;
+}
+
+.hero-section .hero-text .img-logo {
+  margin-bottom: 20px;
+}
+
+.hero-section .hero-text #ieee {
+  text-align: left;
+  width: 180px;
+  height: 60px;
+  margin-right: 10px;
+}
+
+.hero-section .hero-text img {
+  text-align: left;
+  width: 180px;
+  height: 100px;
+  margin-left: 12px;
 }
 
 .hero-section .hero-text span {
